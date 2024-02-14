@@ -28,3 +28,7 @@ export default {
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+![image](https://github.com/23bimal23/ecommerce/assets/118372992/c5bc7a26-8629-4082-9cde-d6e2f46e14a1)
+![image](https://github.com/23bimal23/ecommerce/assets/118372992/f2c81dcf-09a9-41da-a0aa-2a5488c5ea68)
+
+
